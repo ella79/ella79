@@ -23,6 +23,6 @@ I automate testing with AI. Playwright and TypeScript for the suites, Claude Cod
 
 ## 📌 Pinned
 
-[agentic-playwright-suite](https://github.com/ella79/agentic-playwright-suite) · [dashboard](https://ella79.github.io/agentic-playwright-suite/)
+[agentic-playwright-suite](https://github.com/ella79/agentic-playwright-suite)
 
-[portfolio](https://github.com/ella79/portfolio) · [live](https://ella79.github.io/portfolio/)
+[portfolio](https://github.com/ella79/portfolio)
