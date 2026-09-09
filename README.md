@@ -20,9 +20,3 @@ I automate testing with AI. Playwright and TypeScript for the suites, Claude Cod
 ## ✍️ Currently writing
 
 [Why I stopped prompting AI and started building skills](https://www.linkedin.com/pulse/why-i-stopped-prompting-ai-started-building-skills-emanuela-telescu-tmc0f/)
-
-## 📌 Pinned
-
-[agentic-playwright-suite](https://github.com/ella79/agentic-playwright-suite)
-
-[portfolio](https://github.com/ella79/portfolio)
