@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I automate testing with AI. Playwright and TypeScript for the suites, Claude Code agents and skills over MCP for writing and repairing them.
+I'm doing AI-Augmented & Agentic Test Automation.
 
 ## 🛠️ Tech Stack
 
