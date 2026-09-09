@@ -21,7 +21,6 @@ jobs:
         with:
           args: >-
             --no-progress
-            --exclude-mail
             --exclude 'linkedin\.com'
             --max-retries 3
             README.md
