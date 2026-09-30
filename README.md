@@ -21,6 +21,7 @@ I'm doing AI-Augmented & Agentic Test Automation.
 ![Agents](https://img.shields.io/badge/Agents-5A67D8?style=for-the-badge)
 ![Skills](https://img.shields.io/badge/Skills-7C3AED?style=for-the-badge)
 
-## ✍️ Currently writing
+## ✍️ Writing
 
-[Why I stopped prompting AI and started building skills](https://www.linkedin.com/pulse/why-i-stopped-prompting-ai-started-building-skills-emanuela-telescu-tmc0f/)
+- [green ≠ correct: what self-healing tests don't tell you](https://www.linkedin.com/feed/update/urn:li:activity:7511138439715778560/)
+- [Why I stopped prompting AI and started building skills](https://www.linkedin.com/pulse/why-i-stopped-prompting-ai-started-building-skills-emanuela-telescu-tmc0f/)
